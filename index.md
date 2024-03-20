@@ -7,7 +7,7 @@ More material will appear here soon!
 
 
 <p align="center">
-  ![](my_video.mov)
+  ![](FINAL_VIDEO_RECOVER_compressed.mp4)
 </p>
 
 <p align="center">
