@@ -16,7 +16,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 ## Summary video
 
 <p align="center">
-  <video width=700 controls>
+  <video style="width:93%" controls>
     <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4">
   </video>
 </p>
