@@ -23,7 +23,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 
 ## The authors
-<table style="width:90%">
+<table>
    <tr>
       <td style="width:40%">
             <p align="center"><img align="center" height="250" src="figures/CC.JPEG" alt="Cristina Cornelio"/> </p> 
