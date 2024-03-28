@@ -30,7 +30,6 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
               <h3 align="center" ><a href="https://corneliocristina.github.io"> Cristina Cornelio </a> </h3>
               <p align="center"> Samsung AI </p> 
       </td>
-      <td >   </td>
       <td > 
             <p align="center"><img align="center" width="200vw" src="figures/MD.jpg" alt="Mohammed Diab"/> </p> 
             <h3 align="center"><a href="https://mdiabphd.wixsite.com/mdiab"> Mohammed Diab </a> </h3>
