@@ -4,10 +4,10 @@
 Recognizing failures during task execution and implementing recovery procedures is challenging in robotics. 
 Traditional approaches rely on the availability of extensive data or a tight set of constraints, while more recent approaches leverage large language models (LLMs) to verify task steps and replan accordingly. 
 However, these methods often operate offline, necessitating scene resets and incurring in high costs. 
-To address this issues, we've developed a neuro-symbolic method named RECOVER, which enables real-time failure recovery by combining ontologies, logical rules, and LLM-based planners.
-RECOVER exploits symbolic information to enhance the ability of LLMs to generate recovery plans and also to decrease the associated costs. 
-In order to demonstrate the capabilities of our method in a simulated kitchen environment, we introduce ONTOTHOR, an ontology describing the AI2Thor simulator setting. 
-Empirical evaluation shows that ONTOTHOR’s logical rules accurately detect all failures in the analyzed tasks, and that RECOVER considerably outperforms, for both failure detection and recovery, a baseline method reliant solely on LLMs.
+To address this issues, we've developed RECOVER, a neuro-symbolic method combining ontologies, logical rules, and LLM-based planners for real-time failure recovery. 
+By leveraging symbolic information, RECOVER enhances LLMs' ability to generate recovery plans and also to decrease the associated costs. 
+We demonstrated the capabilities of our method in a simulated kitchen environment, by developing a new ontology, ONTOTHOR, describing the AI2Thor simulator setting. 
+Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect all failures in the analyzed tasks, and that RECOVER considerably outperforms, for both failure detection and recovery, a baseline method reliant solely on LLMs.
 
 
 ## Summary video
