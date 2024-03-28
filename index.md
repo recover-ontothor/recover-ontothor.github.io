@@ -2,7 +2,7 @@
 title: Recover
 ---
 
-<h3 align="center" > Abstract </h3>
+<h3 align="center"> Abstract </h3>
 
 <p align="center" style = "font-size: 12px;" >
 Recognizing failures during task execution and implementing recovery procedures is challenging in robotics. 
@@ -13,10 +13,11 @@ By leveraging symbolic information, RECOVER enhances LLMs' ability to generate r
 We demonstrated the capabilities of our method in a simulated kitchen environment, by developing a new ontology, ONTOTHOR, describing the AI2Thor simulator setting. 
 Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect all failures in the analyzed tasks, and that RECOVER considerably outperforms, for both failure detection and recovery, a baseline method reliant solely on LLMs.
 </p>
+
 ## Summary video
 
 <p align="center">
-  <video ="width:93%" controls>
+  <video style= "width:93%" controls>
     <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4">
   </video>
 </p>
