@@ -14,7 +14,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video width=700 controls>
-    <source src="FINAL_VIDEO_RECOVER_compressed.mp4" type="video/mp4">
+    <source src="RECOVER-full_video_with_audio.mp4" type="video/mp4">
   </video>
 </p>
 
