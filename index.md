@@ -20,7 +20,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 
 ## The authors
-
+<p align="left">
 <table>
 
    <tr>
@@ -28,14 +28,14 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
             <p align="center"> <img align="center" width="200" src="figures/CC.JPEG" alt="Cristina Cornelio"/> </p> 
             <h3 align="center" > <a href="https://corneliocristina.github.io"> Cristina Cornelio </a> </h3>
       </td>
-      <td>   </td><td>   </td>
+      <td>   </td>
       <td> 
             <p align="center">  <img align="center" width="147" src="figures/MD.jpg" alt="Mohammed Diab"/></p> 
             <h3 align="center"> <a href="https://mdiabphd.wixsite.com/mdiab"> Mohammed Diab </a> </h3>
       </td>
    </tr>
 </table>
-
+</p> 
 ### How to cite
 
 ```latex
