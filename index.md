@@ -21,6 +21,10 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
   </video>
 </p>
 
+## Recovery videos
+
+More videos will appear here soon!
+
 
 ## The authors
 <table>
