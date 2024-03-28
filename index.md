@@ -1,12 +1,16 @@
----
-title: RECOVER: 
----
+
+## Abstract
+
+Recognizing failures during task execution and implementing recovery procedures is challenging in robotics. 
+Traditional approaches rely on the availability of extensive data or a tight set of constraints, while more recent approaches leverage large language models (LLMs) to verify task steps and replan accordingly. 
+However, these methods often operate offline, necessitating scene resets and incurring in high costs. 
+To address this issues, we've developed a neuro-symbolic method named RECOVER, which enables real-time failure recovery by combining ontologies, logical rules, and LLM-based planners.
+RECOVER exploits symbolic information to enhance the ability of LLMs to generate recovery plans and also to decrease the associated costs. 
+In order to demonstrate the capabilities of our method in a simulated kitchen environment, we introduce ONTOTHOR, an ontology describing the AI2Thor simulator setting. 
+Empirical evaluation shows that ONTOTHOR’s logical rules accurately detect all failures in the analyzed tasks, and that RECOVER considerably outperforms, for both failure detection and recovery, a baseline method reliant solely on LLMs.
 
 
-More material will appear here soon!
-
-
-## 1 minute summary video
+## Summary video
 
 <p align="center">
   <video width=700 controls>
@@ -15,3 +19,29 @@ More material will appear here soon!
 </p>
 
 
+## The authors
+
+<table>
+
+   <tr>
+      <td>
+            <p align="center"> <img align="center" width="200" src="figures/CC.JPEG" alt="Cristina Cornelio"/> </p> 
+            <h3 align="center" > <a href="https://corneliocristina.github.io"> Cristina Cornelio </a> </h3>
+      </td>
+      <td>   </td><td>   </td>
+      <td> 
+            <p align="center">  <img align="center" width="147" src="figures/MD.jpg" alt="Mohammed Diab"/></p> 
+            <h3 align="center"> <a href="https://mdiabphd.wixsite.com/mdiab"> Mohammed Diab </a> </h3>
+      </td>
+   </tr>
+</table>
+
+### How to cite
+
+```latex
+@inproceedings{cornelio_diab_recover,
+  author={Cristina Cornelio and Mohammed Diab},
+  booktitle = {ArXiv preprint},
+  title={RECOVER: A Neuro-Symbolic Framework for Failure Detection and Recovery},
+  Year = {2024}}
+```
