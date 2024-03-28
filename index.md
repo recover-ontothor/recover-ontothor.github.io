@@ -4,7 +4,7 @@ title: Recover
 
 <h3 align="center"> Abstract </h3>
 
-<p align="center" style = "font-size: 12px;" >
+<p align="center" style = "font-size: 13px;" >
 Recognizing failures during task execution and implementing recovery procedures is challenging in robotics. 
 Traditional approaches rely on the availability of extensive data or a tight set of constraints, while more recent approaches leverage large language models (LLMs) to verify task steps and replan accordingly. 
 However, these methods often operate offline, necessitating scene resets and incurring in high costs. 
