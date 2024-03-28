@@ -39,7 +39,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
       </td>
    </tr>
 </table>
-</p> 
+
 
 
 ### How to cite
