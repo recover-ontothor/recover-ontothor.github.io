@@ -23,16 +23,16 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 
 ## The authors
-<table style="width:100%">
+<table style="width:90%">
    <tr>
-      <td style="width:45%">
+      <td style="width:40%">
             <p align="center"><img align="center" height="250" src="figures/CC.JPEG" alt="Cristina Cornelio"/> </p> 
               <h3 align="center" ><a href="https://corneliocristina.github.io"> Cristina Cornelio </a> </h3>
               <p align="center"> Samsung AI </p> 
             </p> 
       </td>
-      <td style="width:10%">   </td>
-      <td style="width:45%"> 
+      <td style="width:5%">   </td>
+      <td style="width:40%"> 
             <p align="center"><img align="center" height="250" src="figures/MD.jpg" alt="Mohammed Diab"/> </p> 
             <h3 align="center"><a href="https://mdiabphd.wixsite.com/mdiab"> Mohammed Diab </a> </h3>
             <p align="center"> University of Plymouth </p> 
