@@ -329,6 +329,7 @@ a.cri_section {
     th,
     td {
       padding: 0.5rem 1rem;
+      box-sizing: border-box;
       border: 1px solid #ffffff;
     }
   }
