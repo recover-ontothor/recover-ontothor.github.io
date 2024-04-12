@@ -20,7 +20,102 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 ## Recovery videos
 
-More videos will appear here soon!
+### Task 1
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T1.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 2
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T2.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 3
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T3.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 4
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T4.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 5
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T5.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 6
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T6.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 7
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T7.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 8
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T8.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 9
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T9.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 10
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T10.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 11
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T11.mp4" type="video/mp4">
+  </video>
+</p>
+
+### Task 12
+
+<p align="center">
+  <video style= "width:93%" controls>
+    <source src="figures/video_tasks/T12.mp4" type="video/mp4">
+  </video>
+</p>
+
 
 
 ## The authors
