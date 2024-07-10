@@ -3,7 +3,7 @@ title: RECOVER
 ---
 
 <p align="center">
-  <strong>Published at:</strong>strong> IROS 2024 - International Conference on Intelligent Robots and Systems
+  <strong>Published at:</strong> IROS 2024 - International Conference on Intelligent Robots and Systems
 </p>
 
 ## Paper summary
