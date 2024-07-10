@@ -2,7 +2,13 @@
 title: RECOVER
 ---
 
-## A Neurosymbolic Framework for Failure Detection and Recovery
+<p align="center">
+  
+**Published at:** IROS 2024 - International Conference on Intelligent Robots and Systems
+
+</p>
+
+## Paper summary
 
 Recognizing failures during task execution and implementing recovery procedures is challenging in robotics. 
 Traditional approaches rely on the availability of extensive data or a tight set of constraints, while more recent approaches leverage large language models (LLMs) to verify task steps and replan accordingly. 
