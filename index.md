@@ -20,7 +20,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -32,7 +32,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T1.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T1.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -40,7 +40,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T2.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T2.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -48,7 +48,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T3.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T3.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -56,7 +56,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T4.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T4.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -64,7 +64,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T5.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T5.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -72,7 +72,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T6.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T6.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -80,7 +80,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T7.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T7.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -88,7 +88,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T8.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T8.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -96,7 +96,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T9.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T9.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -104,7 +104,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T10.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T10.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -112,7 +112,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T11.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T11.mp4" type="video/mp4" >
   </video>
 </p>
 
@@ -120,7 +120,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T12.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
+    <source src="figures/video_tasks/T12.mp4" type="video/mp4" >
   </video>
 </p>
 
