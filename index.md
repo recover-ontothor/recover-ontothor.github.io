@@ -6,7 +6,7 @@ title: RECOVER
 <strong>Published at:</strong> IROS 2024 - <em>International Conference on Intelligent Robots and Systems </em>
 </p>
 <p align="center">  
-&rarr; <a href="https://arxiv.org/abs/2404.00756"> <img height="15" src="figures/arxiv1.svg"/> Paper on ArXiv</a> &larr;
+&rarr;  Paper on  <a href="https://arxiv.org/abs/2404.00756"><img height="18" src="figures/arxiv.png"/></a> &larr;
 </p>
 
 ## Paper summary
