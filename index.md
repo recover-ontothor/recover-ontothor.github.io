@@ -12,11 +12,15 @@ By leveraging symbolic information, RECOVER enhances LLMs' ability to generate r
 We demonstrated the capabilities of our method in a simulated kitchen environment, by developing a new ontology, ONTOTHOR, describing the AI2Thor simulator setting. 
 Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect all failures in the analyzed tasks, and that RECOVER considerably outperforms, for both failure detection and recovery, a baseline method reliant solely on LLMs.
 
+## Summary Video
+
 <p align="center">
   <video style= "width:93%" controls>
     <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4">
   </video>
 </p>
+
+
 
 ## Recovery videos
 
