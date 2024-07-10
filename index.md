@@ -161,9 +161,10 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 ### How to cite
 
 ```latex
-@inproceedings{cornelio_recover,
-  author={Cristina Cornelio and Mohammed Diab},
-  booktitle = {IROS: IEEE/RSJ International Conference on Intelligent Robots and Systems},
-  title={RECOVER: A Neuro-Symbolic Framework for Failure Detection and Recovery},
-  Year = {2024}}
+@inproceedings{RECOVER_Cornelio,
+  author = {Cornelio, Cristina and Diab, Mohammed},
+  year = {2024},
+  booktitle = {IROS 2024: IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  title = {{RECOVER}: A Neuro-Symbolic Framework for Failure Detection and Recovery}
+}
 ```
