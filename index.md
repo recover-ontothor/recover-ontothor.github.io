@@ -155,7 +155,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 </table>
 
 
-### How to cite
+## How to cite
 
 ```
 @inproceedings{RECOVER_Cornelio,
