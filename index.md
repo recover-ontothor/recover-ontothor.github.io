@@ -1,6 +1,10 @@
 ---
-title: Recover
+title: RECOVER
 ---
+
+<p align="center">
+<strong>Published at:</strong> IROS 2024 - International Conference on Intelligent Robots and Systems
+</p>
 
 ## Paper summary
 
@@ -12,11 +16,15 @@ By leveraging symbolic information, RECOVER enhances LLMs' ability to generate r
 We demonstrated the capabilities of our method in a simulated kitchen environment, by developing a new ontology, ONTOTHOR, describing the AI2Thor simulator setting. 
 Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect all failures in the analyzed tasks, and that RECOVER considerably outperforms, for both failure detection and recovery, a baseline method reliant solely on LLMs.
 
+## Summary Video
+
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4">
+    <source src="figures/RECOVER-full_video_with_audio.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
+
+
 
 ## Recovery videos
 
@@ -24,7 +32,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T1.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T1.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -32,7 +40,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T2.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T2.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -40,7 +48,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T3.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T3.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -48,7 +56,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T4.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T4.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -56,7 +64,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T5.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T5.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -64,7 +72,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T6.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T6.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -72,7 +80,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T7.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T7.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -80,7 +88,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T8.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T8.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -88,7 +96,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T9.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T9.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -96,7 +104,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T10.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T10.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -104,7 +112,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T11.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T11.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -112,7 +120,7 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 
 <p align="center">
   <video style= "width:93%" controls>
-    <source src="figures/video_tasks/T12.mp4" type="video/mp4">
+    <source src="figures/video_tasks/T12.mp4" type="video/mp4" alt="Copyright Cornelio Cristina 2024">
   </video>
 </p>
 
@@ -147,13 +155,13 @@ Our empirical evaluation shows that ONTOTHOR’s logical rules accurately detect
 </table>
 
 
-
 ### How to cite
 
 ```
 @inproceedings{RECOVER_Cornelio,
   author = {Cornelio, Cristina and Diab, Mohammed},
-  title = {{RECOVER}: A Neuro-Symbolic Framework for Failure Detection and Recovery},
+  title = {RECOVER: A Neuro-Symbolic Framework for Failure Detection and Recovery},
   booktitle = {IROS 2024: IEEE/RSJ International Conference on Intelligent Robots and Systems},
   year = {2024}}
 ```
+
